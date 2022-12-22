@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Jane Doe",
+      "email": "jdoe@mail.fr"
+    },
+    {
+      "id": 2,
+      "name": "Jean Michel LaTourte",
+      "email": "jmtourte@mail.fr"
+    },
+    {
+      "name": "Toto",
+      "email": "toto@mail.fr",
+      "id": 3
+    },
+    {
+      "name": "Titi",
+      "email": "titi@mail.fr",
+      "id": 4
+    },
+    {
+      "name": "Tata",
+      "email": "tata@mail.fr",
+      "id": 5
+    },
+    {
+      "name": "roger",
+      "email": "federer",
+      "id": 6
+    },
+    {
+      "name": "rafa",
+      "email": "rafa@nadal.es",
+      "id": 7
+    }
+  ]
+}
